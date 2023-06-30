@@ -6,6 +6,8 @@
 
 - 🔭 I'm finished a project [MB English centre](https://github.com/Bminh1709/EnglishCenter_ASP.NetMVC)
 
+- 🔭 I'm working in this project [MB ASM - Web sell docs](https://github.com/Bminh1709/MBasm-WebSellDoc)
+
 - 🌱 I’m currently learning **ASP.NET MVC,C#, SQL Server, Ajax, Jquery**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Bminh1709?tab=repositories)
