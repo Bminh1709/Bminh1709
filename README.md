@@ -6,7 +6,7 @@
 
 - 🔭 I've finished the first project [MB English centre](https://github.com/Bminh1709/EnglishCenter_ASP.NetMVC)
 
-- 🔭 I've finished the first project [MB ASM - Web sell docs](https://github.com/Bminh1709/MBasm-WebSellDoc)
+- 🔭 I've also finished the second one [MB ASM - Web sell docs](https://github.com/Bminh1709/MBasm-WebSellDoc)
 
 - 🌱 I’m currently learning **ASP.NET MVC,C#, SQL Server, Ajax, Jquery**
 
