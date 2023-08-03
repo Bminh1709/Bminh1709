@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bui Quang Minh</h1>
 <h3 align="center">I'm BackEnd .NET Developer From Viet Nam</h3>
 
-<img align="right" alt="Coding" width="450" src="https://scontent.fdad3-6.fna.fbcdn.net/v/t39.30808-6/343516685_613284204051846_6388941649174896359_n.jpg?_nc_cat=100&cb=99be929b-3346023f&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=q2uMQq_K0y8AX-bzNN5&_nc_ht=scontent.fdad3-6.fna&oh=00_AfDKAg3tYrAA3PoeOmrTN3clovZ2wD2JZsU8vukaBX2LXg&oe=64C05962">
+<img align="right" alt="Coding" width="450" src="">
 
 - 🔭 I've finished the first project [MB English centre](https://github.com/Bminh1709/EnglishCenter_ASP.NetMVC)
 
