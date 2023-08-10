@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bui Quang Minh</h1>
 <h3 align="center">I'm BackEnd .NET Developer From Viet Nam</h3>
 
-<img align="right" alt="Coding" width="450" src="">
 
 - 🔭 I've finished the first project [MB English centre](https://github.com/Bminh1709/EnglishCenter_ASP.NetMVC)
 
