@@ -7,7 +7,7 @@
 
 - 🔭 I've also finished the second one [MB ASM - Web sell docs](https://github.com/Bminh1709/MBasm-WebSellDoc)
 
-- 🌱 I’m currently learning **ASP.NET MVC,C#, SQL Server, Ajax, Jquery**
+- 🌱 I’m currently learning **ASP.NET MVC, ASP.NET API, C#, SQL Server, Ajax, Jquery**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Bminh1709?tab=repositories)
 
