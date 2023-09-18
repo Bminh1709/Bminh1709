@@ -3,9 +3,9 @@
 <h3 align="center">I'm BackEnd .NET Developer From Viet Nam</h3>
 
 
-- 🔭 I've finished the first project [MB English centre](https://github.com/Bminh1709/EnglishCenter_ASP.NetMVC)
+- 🔭 I've finished all projects [MB English centre, MB assignment solution, ...](https://github.com/Bminh1709?tab=repositories)
 
-- 🔭 I've also finished the second one [MB ASM - Web sell docs](https://github.com/Bminh1709/MBasm-WebSellDoc)
+- 🔭 I also had a youtube channel [Minh tập code](https://www.youtube.com/channel/UCyK6v3wVuhNz0EMI9fAHrsw)
 
 - 🌱 I’m currently learning **ASP.NET MVC, ASP.NET API, C#, SQL Server, Ajax, Jquery**
 
