@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Bminh1709?tab=repositories)
 
-- 📫 How to reach me [Click here](https://buiminhportfolio.onrender.com/)
+- 📫 Find more about me [Click here](https://buiminhportfolio.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
